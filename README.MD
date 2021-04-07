@@ -1,5 +1,3 @@
-#Selenium with nunit (C#) example
-
 Steps:
 install dotnet core
 
