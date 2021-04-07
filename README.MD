@@ -1,4 +1,4 @@
-Steps:<br>
+<b>Steps:</b><br>
 install dotnet core <br>
 
 cmd:
