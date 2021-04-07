@@ -1,6 +1,8 @@
 Steps:<br>
-install dotnet core
+install dotnet core <br><br>
 
-
-dotnet new nunit
-dotnet test <filename>
+cmd:
+<ul>
+  <li>dotnet new nunit</li>
+  <li>dotnet test <filename></li>
+</ul>
