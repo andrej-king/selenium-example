@@ -1,5 +1,5 @@
 Steps:<br>
-install dotnet core <br><br>
+install dotnet core <br>
 
 cmd:
 <ul>
